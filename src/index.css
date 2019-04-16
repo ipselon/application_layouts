@@ -1,13 +1,10 @@
+html, body {
+  height: 100%;
+}
+
 body {
-  /*
-  The border on the body lets Webcodesk to show the correct element boundaries on the page.
-  If this does not fit your requirements to the page style, just remove the border.
-  */
-  border: 1px solid transparent;
   margin: 0;
   padding: 0;
-  height: 100%;
-  width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
   'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
   sans-serif;

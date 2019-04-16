@@ -1,2 +1,2 @@
-import TitlePanel from 'usr/TitlePanel';
-export default {TitlePanel,}
+import layouts from './layouts';
+export default {layouts,}

@@ -5,12 +5,12 @@
 ## Specification
 
 * Used libs: `react-split-pane`
-* Search tags: `Splitter`, `Layouts`
+* Search tags: `Splitter` `Layouts`
 * Address on the market: []() 
-* Live demo: []();
+* Live demo: [application-layouts.firebaseapp.com](https://application-layouts.firebaseapp.com/);
  
 #### Review the example project in Webcodesk:
- * clone this project: `git clone https://github.com/ipselon/prime_faces_react_todo_sample.git`
+ * clone this project: `git clone https://github.com/ipselon/application_layouts.git`
  * install dependencies in the project's directory: `yarn install`
  * open project's directory in [Webcodesk](https://webcodesk.com)
 
@@ -25,3 +25,7 @@
 * Select `layouts` group and install it.
 
 
+#### Usage
+
+* Drag and drop TopToolbarLayout on the page. Or any of splitter layouts.
+* Then you can add splitters inside each other.

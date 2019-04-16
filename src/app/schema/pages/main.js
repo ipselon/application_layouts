@@ -1,2 +1,2 @@
 
-export default {};
+export default {"type":"usr.layouts.TopSideSplitterLayout","instance":"topSideSplitterLayout","props":{"bottom":{"type":"usr.layouts.LeftSideSplitterLayout","instance":"leftSideSplitterLayout","props":{"right":{"type":"usr.layouts.BottomSideSplitterLayout","instance":"bottomSideSplitterLayout","props":{"top":{"type":"usr.layouts.LeftSideSplitterLayout","instance":"leftSideSplitterLayout","props":{}}}},"left":{"type":"usr.layouts.TopSideSplitterLayout","instance":"topSideSplitterLayout","props":{}}}},"top":{"type":"usr.layouts.RightSideSplitterLayout","instance":"rightSideSplitterLayout","props":{}}}};
