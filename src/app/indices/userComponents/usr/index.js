@@ -1,1 +1,2 @@
-export default {}
+import TitlePanel from 'usr/TitlePanel';
+export default {TitlePanel,}
