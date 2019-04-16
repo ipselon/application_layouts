@@ -8,6 +8,9 @@ const TOP_PANEL_HEIGHT = '48px';
 
 /*
  Use as a root component on the page. Has the absolute positioning.
+
+ * Change the top panel height by changing the constant `TOP_PANEL_HEIGHT`.
+
  */
 const TopToolbarLayout = props => {
   return (

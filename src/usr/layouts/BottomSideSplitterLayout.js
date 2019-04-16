@@ -12,7 +12,8 @@ const BOTTOM_PANEL_MIN_HEIGHT = 50;
 /*
   Split pane into top and bottom panels
 
-  **customize default height of the panels in the source code editor**
+  * Change the bottom panel height by changing the constant `BOTTOM_PANEL_HEIGHT`.
+  * Change the minimal panel height by changing the constant `BOTTOM_PANEL_MIN_HEIGHT`.
 
  */
 const BottomSideSplitterLayout = (props) => {

@@ -6,8 +6,8 @@
 
 * Used libs: `react-split-pane`
 * Search tags: `Splitter` `Layouts`
-* Address on the market: []() 
-* Live demo: [application-layouts.firebaseapp.com](https://application-layouts.firebaseapp.com/);
+* Address on the market: [market project](https://webcodesk.com/app/project?projectId=6) 
+* Live demo: [application-layouts.firebaseapp.com](https://application-layouts.firebaseapp.com);
  
 #### Review the example project in Webcodesk:
  * clone this project: `git clone https://github.com/ipselon/application_layouts.git`

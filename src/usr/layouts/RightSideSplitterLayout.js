@@ -12,7 +12,8 @@ const RIGHT_PANEL_MIN_WIDTH = 100;
 /*
   Split pane into right and left panels
 
-  **customize default width of the panels in the source code editor**
+  * Change the right panel width by changing the constant `RIGHT_PANEL_WIDTH`.
+  * Change the minimal panel width by changing the constant `RIGHT_PANEL_MIN_WIDTH`.
 
  */
 const RightSideSplitterLayout = (props) => {
