@@ -5,7 +5,7 @@
 ## Specification
 
 * Used libs: `react-split-pane`
-* Search tags: `Splitter` `Layouts`
+* Search tags: `Splitter` `Layouts` `Absolute Layouts`
 * Address on the market: [market project](https://webcodesk.com/app/project?projectId=6) 
 * Live demo: [application-layouts.firebaseapp.com](https://application-layouts.firebaseapp.com);
  
@@ -27,5 +27,5 @@
 
 #### Usage
 
-* Drag and drop TopToolbarLayout on the page. Or any of splitter layouts.
-* Then you can add splitters inside each other.
+* Drag and drop `TopToolbarLayout` on the page.
+* Drag and drop splitter on the page or inside any other layout.
